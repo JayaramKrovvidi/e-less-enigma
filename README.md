@@ -5,6 +5,9 @@ Welcome to E Less Enigma, an advanced text paraphrasing tool built using state-o
 
 Please find the full project report [here](Project_Report.pdf).
 
+<img src="assets/pipeline-ner.png" />
+<img src="assets/pipeline-general.png" />
+
 ### Key Features:
 - Utilizes cutting-edge language models for text paraphrasing.
 - Supports customizable input and output formats.
